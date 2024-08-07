@@ -1,10 +1,10 @@
 package casopractico1;
 
 public class MandoTelevision {
-    // Campo para almacenar el volumen
+	
     private int volumen;
 
-    // Constructor que inicializa el volumen a 0
+    // Constructor
     public MandoTelevision() {
         this.volumen = 0;
     }
